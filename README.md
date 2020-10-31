@@ -1,7 +1,7 @@
 # Random-scene-creator
 A Java application that generates random images of a city at sunset and saves it.
 
-For use run RandomArtist.main()<br/>
+For use run **RandomArtist.main()**<br/>
 <br/>
 <br/>
 Below are examples of images generated from the application.
